@@ -14,7 +14,6 @@
 #include "ethhdr.h"
 #include "iphdr.h"
 #include "arphdr.h"
-#include "myaddr.h"
 #include <map>
 using namespace std;
 
